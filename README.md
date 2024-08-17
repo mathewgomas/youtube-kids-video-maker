@@ -1,11 +1,16 @@
 # youtube-kids-video-maker
-YouTube Kids Video Maker Create engaging YouTube videos for kids with ease! Description YouTube is a Python package that simplifies the video creation process. Generate entertaining and educational videos for your young audience with just a few lines of code. Key Features Easy-to-use API: 
+
+YouTube Kids Video Maker Create engaging YouTube videos for kids with ease!  YouTube is a Python package that simplifies the video creation process. Generate entertaining and educational videos for your young audience with just a few lines of code. Key Features Easy-to-use API: 
+
 **Description**: YouTube Kids Video Maker
+
 Create engaging YouTube videos for kids with ease!
 
 Youtube-kids-video-maker is a Python package that simplifies the video creation process. Generate entertaining and educational videos for your young audience with just a few lines of code.
 Key Features:
+
 Easy-to-use API: Create videos programmatically.
+
 Customizable templates: Personalize your videos.
 Image and audio support: Add visuals and sound effects.
 Fast rendering: Quick video output.
