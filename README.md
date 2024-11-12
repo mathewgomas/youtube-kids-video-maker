@@ -26,3 +26,6 @@ To install the package, run:
 
 ```bash
 pip install youtube-kids-video-maker
+Here's more on pip install youtube-kids-video-maker
+
+The command pip install youtube-kids-video-maker is used to install the YouTube Kids Video Maker package. This package is a Python library that allows users to create videos for YouTube Kids, a video streaming service designed for children. The package provides features such as video editing, thumbnail creation, and uploading to YouTube.
